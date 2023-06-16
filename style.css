@@ -1,0 +1,24 @@
+html,body {
+  padding: 0;
+  margin: 0;
+}
+
+#navbar{
+    background-color: pink;
+    list-style: none;
+    text-align: center;
+    justify-content: center;
+    padding: 10px 0 10px 0;
+}
+
+
+#navbar li{
+    display:inline;
+    margin:10%;
+    font-size:18px;
+}
+
+
+#navbar li a {
+    text-decoration: none;
+}
